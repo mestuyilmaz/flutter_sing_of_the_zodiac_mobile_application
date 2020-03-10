@@ -1,6 +1,10 @@
-# flutter_burc_rehberi
-
-Burç Rehberi Uygulaması
+# Flutter Sign of the Zodiac Mobile Application
+### A mobile application of sign of the zodiac using Flutter.
+## Features
+- Sign of the zodiac list
+- Their dates and characteristics
+## Built With
+- #### [Flutter](https://flutter.dev) - is Google’s UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 
 ## Getting Started
 
